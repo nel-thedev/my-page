@@ -1,6 +1,5 @@
 import React from 'react';
 import { Link } from 'react-router-dom';
-import reactLogo from '../assets/react.svg';
 import programming from '../assets/undraw_programming_re_kg9v.svg';
 
 const Main = () => {

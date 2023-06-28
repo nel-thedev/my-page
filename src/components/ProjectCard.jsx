@@ -28,7 +28,7 @@ const ProjectCard = ({
             className="w-fit flex p-2 bg-indigo-100 rounded-lg shadow-card hover:shadow-cardhover gap-2"
           >
             <img
-              src="../src/assets/icons8-github-50 copy.png"
+              src="../assets/icons8-github-50 copy.png"
               alt="github"
               className="w-6"
             />
@@ -41,7 +41,7 @@ const ProjectCard = ({
             className="w-fit flex p-2 bg-indigo-100 rounded-lg shadow-card hover:shadow-cardhover gap-2"
           >
             <img
-              src="../src/assets/icons8-rocket-50.png"
+              src="../assets/icons8-rocket-50.png"
               alt="deploy"
               className="w-6"
             />
