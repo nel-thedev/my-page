@@ -1,6 +1,6 @@
 import React from 'react';
 import { Link } from 'react-router-dom';
-import programming from '../assets/undraw_programming_re_kg9v.svg';
+import programming from '/undraw_programming_re_kg9v.svg';
 
 const Main = () => {
   return (

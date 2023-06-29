@@ -6,7 +6,7 @@ export const projects = [
     id: 1,
     github: 'https://github.com/nel-thedev/project-game',
     deployed: 'https://nel-thedev.github.io/project-game/',
-    thumbnail: '../assets/Screenshot 2023-05-26 at 6.21.42 PM.png',
+    thumbnail: '/Screenshot 2023-05-26 at 6.21.42 PM.png',
   },
   {
     name: 'Snippetz',
@@ -15,7 +15,7 @@ export const projects = [
     id: 2,
     github: 'https://github.com/nel-thedev/express-project',
     deployed: 'https://snippetz.fly.dev/',
-    thumbnail: '../assets/{kkkk.png',
+    thumbnail: '/{kkkk.png',
   },
   {
     name: 'Curiomarket',
@@ -24,7 +24,7 @@ export const projects = [
     id: 3,
     github: 'https://github.com/nel-thedev/curiomarket-client',
     deployed: 'https://main--rococo-semifreddo-f6db94.netlify.app/',
-    thumbnail: '../assets/Curiomarket (1).png',
+    thumbnail: '/Curiomarket (1).png',
   },
   {
     name: 'React Native Jobs',
@@ -33,7 +33,7 @@ export const projects = [
     id: 4,
     github: 'https://github.com/nel-thedev/react-native-jobs',
     deployed: '#',
-    thumbnail: '../assets/ezgif.com-optimize.gif',
+    thumbnail: '/ezgif.com-optimize.gif',
   },
   {
     name: 'Dall-E Clone',
@@ -42,6 +42,6 @@ export const projects = [
     id: 5,
     github: 'https://github.com/nel-thedev/dalle-clone',
     deployed: 'https://main--steady-marigold-b4bda7.netlify.app/',
-    thumbnail: '../assets/q0r0c7neujzraxlk5olc.png',
+    thumbnail: '/q0r0c7neujzraxlk5olc.png',
   },
 ];
