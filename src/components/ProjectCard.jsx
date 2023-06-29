@@ -25,12 +25,12 @@ const ProjectCard = ({
             href={github}
             target="_blank"
             rel="noreferrer"
-            className="w-fit flex p-2 bg-indigo-100 rounded-lg shadow-card hover:shadow-cardhover gap-2"
+            className="w-fit flex p-2 bg-indigo-100 rounded-lg shadow-card hover:shadow-cardhover gap-4 items-center"
           >
             <img
               src="/icons8-github-50 copy.png"
               alt="github"
-              className="w-6"
+              className="w-6 h-6"
             />
             View repo
           </a>
@@ -38,9 +38,9 @@ const ProjectCard = ({
             href={deployed}
             target="_blank"
             rel="noreferrer"
-            className="w-fit flex p-2 bg-indigo-100 rounded-lg shadow-card hover:shadow-cardhover gap-2"
+            className="w-fit flex p-2 bg-indigo-100 rounded-lg shadow-card hover:shadow-cardhover gap-4 items-center"
           >
-            <img src="/icons8-rocket-50.png" alt="deploy" className="w-6" />
+            <img src="/icons8-rocket-50.png" alt="deploy" className="w-6 h-6" />
             View deployed
           </a>
         </div>

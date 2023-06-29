@@ -21,7 +21,7 @@ const About = () => {
           <p className="font-light">
             There, I learned how to build web applications from end to end using
             the full MERN Stack, but I'm always looking for new challenges, like
-            implementing OpenAI API and React Native applications.
+            implementing OpenAI's API and React Native applications.
           </p>
           <p className="font-light">
             Below you can find my socials and download my resume. Let's get in
@@ -29,7 +29,7 @@ const About = () => {
           </p>
         </div>
       </div>
-      <div className="my-10 flex gap-6 justify-center items-center">
+      <div className="my-10 flex gap-6 justify-center items-center flex-wrap">
         <a
           href="https://www.linkedin.com/in/nelsonmorillof/"
           className="font-inter font-medium border border-indigo-100 hover:bg-indigo-100 py-2 px-4 rounded-xl w-fit flex gap-2"

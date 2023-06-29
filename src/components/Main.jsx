@@ -6,7 +6,7 @@ const Main = () => {
   return (
     <section
       id="landing"
-      className="flex flex-col-reverse gap-4 sm:flex-row h-[87vh]"
+      className="flex flex-col-reverse gap-4 sm:flex-row h-[87vh] w-[100%]"
     >
       <div className="flex flex-col gap-10 sm:w-[50%] justify-center items-center md:items-start">
         <h3 className="text-lg font-normal px-5 py-2 bg-indigo-50 rounded-xl w-fit">
@@ -16,7 +16,7 @@ const Main = () => {
         <p className="font-extralight text-slate-500">
           JavaScript | React.js | Node.js | Express.js | MongoDB
         </p>
-        <div className="flex gap-10 justify-center items-center">
+        <div className="flex gap-4 md:gap-10 justify-center items-center">
           <Link
             to="/#projects"
             className="font-inter font-medium border border-indigo-100 hover:bg-indigo-100 py-2 px-4 rounded-xl w-[100px] text-center"
