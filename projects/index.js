@@ -47,7 +47,7 @@ export const projects = [
   {
     name: 'AI Summarizer',
     description:
-      'Simplify your reading with this AI powered summarizer that transforms lengthy articles into concise summaries',
+      'Simplify your reading with this AI powered summarizer that transforms lengthy (mainly news) articles into concise summaries. It keeps history of the input articles in local storage so you can go back easily and re-use the summaries.',
     id: 6,
     github: 'https://github.com/nel-thedev/openai-summarizer',
     deployed: 'https://amazing-piroshki-1606f7.netlify.app/',
