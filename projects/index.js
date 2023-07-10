@@ -44,4 +44,13 @@ export const projects = [
     deployed: 'https://main--steady-marigold-b4bda7.netlify.app/',
     thumbnail: '/q0r0c7neujzraxlk5olc.png',
   },
+  {
+    name: 'AI Summarizer',
+    description:
+      'Simplify your reading with this AI powered summarizer that transforms lengthy articles into concise summaries',
+    id: 6,
+    github: 'https://github.com/nel-thedev/openai-summarizer',
+    deployed: 'https://amazing-piroshki-1606f7.netlify.app/',
+    thumbnail: '/Screenshot 2023-07-10 at 7.00.02 PM.png',
+  },
 ];
