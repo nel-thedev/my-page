@@ -53,4 +53,14 @@ export const projects = [
     deployed: 'https://amazing-piroshki-1606f7.netlify.app/',
     thumbnail: '/Screenshot 2023-07-10 at 7.00.02 PM.png',
   },
+  {
+    name: 'TCG Dealy',
+    description:
+      "With TCGDealy, you can seamlessly save listings from TCGplayer.com with just a click. Whether it's that elusive card for your deck or a rare collectible you've been eyeing, simply save it and let TCGDealy take care of the rest.",
+    id: 7,
+    github: 'https://github.com/nel-thedev/',
+    deployed:
+      'https://chromewebstore.google.com/detail/tcg-dealy/ohckbafbhflgeblofdpeeooenpjkdbgb',
+    thumbnail: '/tcgdealy-logo128.png',
+  },
 ];
